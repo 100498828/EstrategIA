@@ -2,28 +2,35 @@
 
 **Anticípate a la regulación. Decide con evidencia.**
 
-EstrategIA es un prototipo de plataforma B2B de inteligencia regulatoria predictiva, desarrollado durante un hackatón, que ayuda a las empresas a identificar iniciativas legislativas, evaluar su impacto potencial y preparar estrategias de participación institucional (*advocacy*).
+EstrategIA es un prototipo de plataforma B2B de inteligencia regulatoria predictiva, diseñado para ayudar a las empresas a **anticipar cambios legislativos, evaluar su impacto y preparar estrategias de advocacy** antes de que las regulaciones sean aprobadas.
 
-### Funcionalidades
+## ¿Por qué nace EstrategIA?
 
-- **Perfil empresarial:** selección de empresas del IBEX 35 y configuración de sectores, actividades y mercados.
-- **Radar regulatorio:** catálogo de iniciativas y normativas europeas con enlaces a fuentes institucionales.
-- **Impact Assessment:** evaluación orientativa de riesgos, costes y oportunidades según el perfil empresarial.
-- **Advocacy Strategy:** generación de recomendaciones de posicionamiento y participación institucional.
-- **Dashboard interactivo:** visualización y filtrado de información regulatoria.
+La legislación evoluciona constantemente y mantenerse al día supone un reto para las empresas, especialmente para startups y organizaciones con recursos limitados que no siempre pueden acceder a consultores o asesores jurídicos especializados.
 
-### Tecnologías
+**Nuestro objetivo es democratizar el acceso a la inteligencia regulatoria**, facilitando la identificación temprana de riesgos y oportunidades para tomar decisiones estratégicas fundamentadas.
 
-HTML5 · CSS3 · JavaScript
+## Funcionalidades principales
 
-Aplicación responsive, sin dependencias externas ni necesidad de servidor.
+- **Perfil empresarial:** selección de empresas del IBEX 35, sectores y líneas de negocio.
+- **Radar regulatorio:** exploración de normativa europea con fuentes oficiales.
+- **Impact Assessment:** estimación orientativa de riesgos, costes y oportunidades.
+- **Advocacy Strategy:** recomendaciones de posicionamiento y participación institucional.
 
-### Fuentes y metodología
+## 👥 ¿Quiénes somos?
 
-El proyecto utiliza referencias documentales de fuentes oficiales como EUR-Lex y las instituciones de la Unión Europea, complementadas con un enfoque metodológico OSINT (*Open Source Intelligence*).
+Somos **Mario, Alicia, Cristina y Kawtar**, creadores de EstrategIA durante el **Impact Hackathon: GenAI for Infrastructure & Energy**, un evento centrado en desarrollar soluciones innovadoras utilizando herramientas avanzadas de inteligencia artificial.
 
-### Limitaciones
+## Tecnologías
 
-Este proyecto es un prototipo demostrativo. Las evaluaciones de impacto y las recomendaciones se generan mediante reglas programadas y datos de ejemplo. No constituyen asesoramiento jurídico ni predicciones verificadas.
+HTML · CSS · JavaScript
 
-La actualización automática de fuentes oficiales y el análisis mediante modelos de IA son posibles ampliaciones futuras.
+Prototipo web interactivo desarrollado sin dependencias externas.
+
+## Prueba la plataforma
+
+**https://100498828.github.io/EstrategIA/**
+
+---
+
+*EstrategIA es un prototipo demostrativo. Los análisis y estimaciones son orientativos y no constituyen asesoramiento jurídico. La integración de IA y la monitorización automática de fuentes regulatorias forman parte de su posible evolución futura.*
